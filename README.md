@@ -6,7 +6,7 @@ labeled dataset with a low number of input parameters and no predefined segmenti
     
 When using this code, please refer to: 
 
-Junior, Amilcar Soares, Valeria Cesario Times, Chiara Renso, Stan Matwin, and Lucídio AF Cabral. 
+Amilcar Soares Junior, Valeria Cesario Times, Chiara Renso, Stan Matwin, and Lucídio AF Cabral. 
 "A semi-supervised approach for the semantic segmentation of trajectories." 
 In 2018 19th IEEE International Conference on Mobile Data Management (MDM), pp. 145-154. IEEE, 2018.
 
@@ -53,4 +53,4 @@ RGRASP-SemTS uses the following input parameters:
 1. A segments_feats_list \[(string),...\] *(optional)* with a list with all segment features attributes 
    to be computed. At this version only the percentiles \'p5\',\'p25\',\'p50\',\'p75\' and \'p95\' 
 
-##Jupyter notebooks examples with three datasets included in this package can be found in the folder [examples](./examples)##
+## Jupyter notebooks examples with two datasets are included in this package, please check  the files RunRGRASP-SemTS(Fishing).ipynb and RunRGRASP-SemTS(Hurricanes).ipynb ##
