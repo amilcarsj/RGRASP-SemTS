@@ -53,4 +53,4 @@ RGRASP-SemTS uses the following input parameters:
 1. A segments_feats_list \[(string),...\] *(optional)* with a list with all segment features attributes 
    to be computed. At this version only the percentiles \'p5\',\'p25\',\'p50\',\'p75\' and \'p95\' 
 
-## Jupyter notebooks examples with two datasets are included in this package, please check  the files RunRGRASP-SemTS(Fishing).ipynb and RunRGRASP-SemTS(Hurricanes).ipynb ##
+Jupyter notebooks examples with two datasets are included in this package, please check  the files RunRGRASP-SemTS(Fishing).ipynb and RunRGRASP-SemTS(Hurricanes).ipynb 
